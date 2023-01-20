@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin chriss-air-4.wireless-1x.unc.edu 21.3.0 Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_ARM64_T8101 arm64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.32.0 (Apple Git-132)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Dec 17 2021 18:32:29)
+CURL:	[/usr/bin/curl] curl 7.77.0 (x86_64-apple-darwin21.0) libcurl/7.77.0 (SecureTransport) LibreSSL/2.8.3 zlib/1.2.11 nghttp2/1.42.0
+NODE:	[/Users/chrisodondi/.nvm/versions/node/v19.4.0/bin/node] v19.4.0
